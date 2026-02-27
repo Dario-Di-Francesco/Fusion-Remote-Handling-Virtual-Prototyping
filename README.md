@@ -104,7 +104,7 @@ Bottom-up approach with the following main components:
 <p align="center">
   <img src="assets/images/slide-12.png" alt="Elevator footprint" width="800"/>
 </p>
-
+[![Elevator kinematics video](assets/videos/elevator_kinematics_slide11.gif)](assets/videos/elevator_kinematics_slide11.mp4)
 ---
 
 ## Manipulator
