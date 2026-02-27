@@ -6,7 +6,7 @@
   <img src="assets/images/slide-05.png" alt="System overview" width="800"/>
 </p>
 
-## Project at a glance
+## Project at a glance 
 
 - **Goal:** assist a human operator during maintenance tasks inside a mockup environment by providing **safe access** and **robust handling** of First Wall modules.
 - **Payload requirement:** manipulator designed to sustain **up to 250 kg**.
