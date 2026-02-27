@@ -53,7 +53,9 @@ The concept consists of two cooperating subsystems:
 <p align="center">
   <img src="assets/images/slide-06.png" alt="Elevator components" width="800"/>
 </p>
-
+<p align="center">
+  <img src="assets/images/slide-13.png" alt="Manipulator concept" width="800"/>
+</p>
 ---
 
 ## Elevator
@@ -65,7 +67,9 @@ Bottom-up approach with the following main components:
 - 4 guides
 - platform + guardrails
 - bridge
-
+<p align="center">
+  <img src="assets/images/slide-07.png" alt="Elevator exploded drawing" width="800"/>
+</p>
 
 
 ### Structural analysis (FEA)
@@ -121,9 +125,7 @@ Bottom-up approach with the following main components:
 - 2 cylindrical joints
 - Throttle + brakes
 
-<p align="center">
-  <img src="assets/images/slide-13.png" alt="Manipulator concept" width="800"/>
-</p>
+
 <p align="center">
   <img src="assets/images/slide-14.png" alt="Manipulator components" width="800"/>
 </p>
