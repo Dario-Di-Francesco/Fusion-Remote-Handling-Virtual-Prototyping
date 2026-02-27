@@ -99,19 +99,13 @@ Bottom-up approach with the following main components:
 ### Kinematics & footprint
 
 <p align="center">
-  <img src="assets/images/slide-11.png" alt="Elevator kinematics" width="800"/>
+  <img src="assets/videos/elevator_kinematics_slide11.gif" alt="Elevator kinematics (GIF)" width="1000"/>
 </p>
 <p align="center">
   <img src="assets/images/slide-12.png" alt="Elevator footprint" width="800"/>
 </p>
 
-<p align="center">
-  <img src="assets/videos/elevator_kinematics_slide11.gif" alt="Elevator kinematics (GIF)" width="800"/>
-</p>
-
-![Elevator kinematics (GIF)](./assets/videos/elevator_kinematics_slide.gif)
-
-
+## Manipulator
 ### Design
 
 - Installed close to one access of the torus.
