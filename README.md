@@ -126,7 +126,7 @@ Bottom-up approach with the following main components:
 
 
 <p align="center">
-  <img src="assets/videos/slide-14_manipulator_video.gif" alt="Elevator kinematics (GIF)" width="1000"/>
+  <img src="assets/videos/slide-14_manipulator_video.gif" alt="Elevator kinematics (GIF)" width="800"/>
 </p>
 
 ### Structural analysis (FEA)
