@@ -56,6 +56,7 @@ The concept consists of two cooperating subsystems:
 <p align="center">
   <img src="assets/images/slide-13.png" alt="Manipulator concept" width="800"/>
 </p>
+
 ---
 
 ## Elevator
@@ -124,7 +125,7 @@ Bottom-up approach with the following main components:
 
 
 <p align="center">
-  <img src="assets/images/slide-14.png" alt="Manipulator components" width="800"/>
+  <img src="assets/videos/slide-14_manipulator_video.gif" alt="Elevator kinematics (GIF)" width="1000"/>
 </p>
 
 ### Structural analysis (FEA)
