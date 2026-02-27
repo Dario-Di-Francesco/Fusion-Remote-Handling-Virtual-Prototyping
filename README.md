@@ -109,6 +109,8 @@ Bottom-up approach with the following main components:
   <img src="assets/videos/elevator_kinematics_slide11.gif" alt="Elevator kinematics (GIF)" width="800"/>
 </p>
 
+![Elevator kinematics (GIF)](./assets/videos/elevator_kinematics_slide11.gif)
+
 
 ### Design
 
