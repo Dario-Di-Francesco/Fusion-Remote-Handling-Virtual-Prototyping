@@ -85,13 +85,13 @@ Bottom-up approach with the following main components:
 - Vertical load applied downward at the center of an edge
 - Load case: **10,000 N** (approx. 70 kg operator + toolbox + margin)
 - Supports fixed to the ground
+<p align="center">
+  <img src="assets/images/slide-09.png" alt="Elevator load and constraints" width="600"/>
+</p>
+<p align="center">
+  <img src="assets/images/slide-08.png" alt="Elevator mesh" width="600"/>
+</p>
 
-<p align="center">
-  <img src="assets/images/slide-08.png" alt="Elevator mesh" width="800"/>
-</p>
-<p align="center">
-  <img src="assets/images/slide-09.png" alt="Elevator load and constraints" width="800"/>
-</p>
 <p align="center">
   <img src="assets/images/slide-10.png" alt="Elevator results" width="800"/>
 </p>
