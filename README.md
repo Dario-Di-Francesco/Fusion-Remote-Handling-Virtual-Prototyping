@@ -22,7 +22,7 @@
 Remote maintenance in fusion facilities often requires handling heavy components in constrained spaces. This project explores a **mechanical support system** (virtual prototype) to simplify operator access and the manipulation of First Wall modules.
 
 <p align="center">
-  <img src="assets/images/slide-02.png" alt="Introduction" width="800"/>
+  <img src="assets/images/slide-02.png" alt="Introduction" width="1000"/>
 </p>
 
 ---
@@ -38,7 +38,7 @@ Remote maintenance in fusion facilities often requires handling heavy components
 - Manipulator must support a **maximum module mass of 250 kg**.
 
 <p align="center">
-  <img src="assets/images/slide-03.png" alt="Requirements" width="800"/>
+  <img src="assets/images/slide-03.png" alt="Requirements" width="1000"/>
 </p>
 
 ---
@@ -51,7 +51,7 @@ The concept consists of two cooperating subsystems:
 2. **Manipulator** – positioned near one torus access; the operator can reach and drive the end-effector from the platform.
 
 <p align="center">
-  <img src="assets/images/slide-06.png" alt="Elevator components" width="800"/>
+  <img src="assets/images/slide-06.png" alt="Elevator components" width="400"/>
 </p>
 <p align="center">
   <img src="assets/images/slide-13.png" alt="Manipulator concept" width="800"/>
@@ -68,7 +68,7 @@ Bottom-up approach with the following main components:
 - platform + guardrails
 - bridge
 <p align="center">
-  <img src="assets/images/slide-07.png" alt="Elevator exploded drawing" width="800"/>
+  <img src="assets/images/slide-07.png" alt="Elevator exploded drawing" width="400"/>
 </p>
 
 
@@ -86,10 +86,10 @@ Bottom-up approach with the following main components:
 - Load case: **10,000 N** (approx. 70 kg operator + toolbox + margin)
 - Supports fixed to the ground
 <p align="center">
-  <img src="assets/images/slide-09.png" alt="Elevator load and constraints" width="600"/>
+  <img src="assets/images/slide-09.png" alt="Elevator load and constraints" width="400"/>
 </p>
 <p align="center">
-  <img src="assets/images/slide-08.png" alt="Elevator mesh" width="600"/>
+  <img src="assets/images/slide-08.png" alt="Elevator mesh" width="800"/>
 </p>
 
 <p align="center">
