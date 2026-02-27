@@ -51,7 +51,7 @@ The concept consists of two cooperating subsystems:
 2. **Manipulator** – positioned near one torus access; the operator can reach and drive the end-effector from the platform.
 
 <p align="center">
-  <img src="assets/images/slide-04.png" alt="Architecture" width="800"/>
+  <img src="assets/images/slide-06.png" alt="Elevator components" width="800"/>
 </p>
 
 ---
@@ -66,9 +66,7 @@ Bottom-up approach with the following main components:
 - platform + guardrails
 - bridge
 
-<p align="center">
-  <img src="assets/images/slide-06.png" alt="Elevator components" width="800"/>
-</p>
+
 
 ### Structural analysis (FEA)
 
