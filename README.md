@@ -102,6 +102,7 @@ Bottom-up approach with the following main components:
 <p align="center">
   <img src="assets/videos/elevator_kinematics_slide11.gif" alt="Elevator kinematics (GIF)" width="1000"/>
 </p>
+
 <p align="center">
   <img src="assets/images/slide-12.png" alt="Elevator footprint" width="800"/>
 </p>
@@ -153,7 +154,7 @@ Bottom-up approach with the following main components:
 - **6,250 N** (overload scenario)
 
 <p align="center">
-  <img src="assets/images/slide-17.png" alt="Manipulator structural analysis" width="300"/>
+  <img src="assets/images/slide-17.png" alt="Manipulator structural analysis" width="800"/>
 </p>
 <p align="center">
   <img src="assets/images/slide-18.png" alt="Manipulator results" width="800"/>
