@@ -163,18 +163,24 @@ Bottom-up approach with the following main components:
 **Key observation (both cases)**
 - Highest stress concentration occurs near the **prismatic joints**.
 - Von Mises stress remains acceptable in the investigated scenarios.
-- Maximum deflection occurs at the **end-effector** *(replace the placeholders below with your measured values from CATIA/FEA outputs).*
+- Maximum deflection occurs at the **end-effector**
 
-> **TODO (fill from your solver output):**
-> - Max end-effector deflection @ 2,500 N: `__ mm`
-> - Max end-effector deflection @ 6,250 N: `__ mm`
+### Kinematics & footprint
 
+<p align="center">
+  <img src="assets/videos/slide-19_kinematics_video.gif" alt="Elevator kinematics (GIF)" width="1000"/>
+</p>
 
+<p align="center">
+  <img src="assets/images/slide-19.png" alt="Elevator footprint" width="800"/>
+</p>
 
----
 
 ## Ergonomic assessment
 
 An SSP-based evaluation indicates that the joints under the highest load are the **left knee** and **left hip**, especially during the final phase of the simulation when the mannequin climbs the platform to avoid stepping on the divertor.
 
-> **Suggested image:** export an ergonomics screenshot (SSP output) and save it as `assets/images/ergonomics_ssp.png`, then embed it here:
+<p align="center">
+  <img src="assets/videos/slide-21_ergonomics_ssp.gif" alt="Elevator kinematics (GIF)" width="1000"/>
+</p>
+
