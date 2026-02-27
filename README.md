@@ -173,6 +173,3 @@ Bottom-up approach with the following main components:
 An SSP-based evaluation indicates that the joints under the highest load are the **left knee** and **left hip**, especially during the final phase of the simulation when the mannequin climbs the platform to avoid stepping on the divertor.
 
 > **Suggested image:** export an ergonomics screenshot (SSP output) and save it as `assets/images/ergonomics_ssp.png`, then embed it here:
-
-```md
-![Ergonomics SSP](assets/images/ergonomics_ssp.png)
