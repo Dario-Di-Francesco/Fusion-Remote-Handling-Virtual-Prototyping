@@ -141,9 +141,23 @@ Bottom-up approach with the following main components:
 - Vertical load applied at the center of the suction cup
 - Base fixed to the ground
 
+<p align="center">
+  <img src="assets/images/slide-15.png" alt="Manipulator structural analysis" width="300"/>
+</p>
+<p align="center">
+  <img src="assets/images/slide-16.png" alt="Manipulator results" width="800"/>
+</p>
+
 **Load cases**
 - **2,500 N** (≈ 250 kg module weight)
 - **6,250 N** (overload scenario)
+
+<p align="center">
+  <img src="assets/images/slide-17.png" alt="Manipulator structural analysis" width="300"/>
+</p>
+<p align="center">
+  <img src="assets/images/slide-18.png" alt="Manipulator results" width="800"/>
+</p>
 
 **Key observation (both cases)**
 - Highest stress concentration occurs near the **prismatic joints**.
@@ -154,12 +168,7 @@ Bottom-up approach with the following main components:
 > - Max end-effector deflection @ 2,500 N: `__ mm`
 > - Max end-effector deflection @ 6,250 N: `__ mm`
 
-<p align="center">
-  <img src="assets/images/slide-15.png" alt="Manipulator structural analysis" width="800"/>
-</p>
-<p align="center">
-  <img src="assets/images/slide-16.png" alt="Manipulator results" width="800"/>
-</p>
+
 
 ---
 
